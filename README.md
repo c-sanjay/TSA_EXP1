@@ -7,9 +7,10 @@ To Develop a python program to Plot a time series data (population/ market price
 /temperature.
 
 # REQUIREMENTS:
+```
 1.DATASET : Apple Stock Price
 2.TECHNOLOGY USED : GOOGLE COLLAB
-
+```
 # ALGORITHM:
 1. Import the required packages like pandas and matplot
 2. Read the dataset using the pandas
