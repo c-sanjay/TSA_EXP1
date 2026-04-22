@@ -1,12 +1,14 @@
 # Ex.No: 01A PLOT A TIME SERIES DATA
 ###  Date: 18/04/2026
-
+### NAME : SANJAY C
+### REG NO : 212223240150
 # AIM:
 To Develop a python program to Plot a time series data (population/ market price of a commodity
 /temperature.
 
-## DATASET : Apple Stock Price
-## TECHNOLOGY USED : GOOGLE COLLAB
+# REQUIREMENTS:
+1.DATASET : Apple Stock Price
+2.TECHNOLOGY USED : GOOGLE COLLAB
 
 # ALGORITHM:
 1. Import the required packages like pandas and matplot
