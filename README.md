@@ -8,7 +8,7 @@ To Develop a python program to Plot a time series data (population/ market price
 
 # REQUIREMENTS:
 ```
-1.DATASET : Apple Stock Price
+1.DATASET : APPLE STOCK PRICE
 2.TECHNOLOGY USED : GOOGLE COLLAB
 ```
 # ALGORITHM:
